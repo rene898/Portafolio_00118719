@@ -1,0 +1,40 @@
+Algoritmo #1
+*Inicio*			
+s = inicializar
+push(s,.....
+
+if(empty){
+cout << error << endl;
+}
+pop(s)
+if(empty){
+cout << error << endl;
+}
+i=pop(s)
+return i
+
+Algoritmo #2
+*Incio*
+s = inicializar
+push(s,.....
+
+if(empty){
+cout << error << endl;
+}
+a=pop(s)
+if(empty){
+cout << error << endl;
+}
+m=pop(s)
+
+
+if(m){
+cout << m << endl;
+push(s,m)
+}
+
+if (a){
+cout << a << endl;
+push(s,a)
+}
+return m			
