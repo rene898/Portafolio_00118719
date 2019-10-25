@@ -1,0 +1,43 @@
+Actividad 14
+
+Para el primer árbol
+
+Raices:A
+Ramas:B,C,D,E,F
+Hojas:G,H,I
+
+Nivel:3
+Profundidad:3
+Peso:9 
+Orden:2
+
+Sub-arboles:Sub-árbol A
+
+Árbol Binario no lleno
+Árbol Binario no completo
+
+Recorridos
+In-orden:G,D,B,A,H,E,I,C,F
+Pre-orden:A,B,D,G,C,E,H,I,F
+Post-orden:G,D,B,H,I,E,C,F,A
+
+Para el segundo árbol
+
+Raices:A,B
+Ramas:C,D,E,F,G,H
+Hojas:I,J,K,L
+
+Nivel:4
+Profundidad:4
+Peso:12
+Orden:3
+
+Sub-arboles:Sub-árbol A y Sub-árbol B
+
+Árbol Binario no lleno
+Árbol Binario no completo
+
+Recorridos
+In-orden:I,E,C,J,F,B,A,K,G,L,H,D
+Pre-orden:A,B,C,E,I,F,J,G,K,H,L,D
+Post-orden:I,E,J,F,C,G,K,L,H,D,B,A
